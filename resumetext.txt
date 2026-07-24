@@ -1,0 +1,48 @@
+NIHAL SIDDIQUI Chh. Sambhajinagar, India | +91-9890444544 
+linkedin.com/in/nihal-siddiqui-49593b268 | https://github.com/nihalsiddiqui7 | nihalsiddiqui.mail@gmail.com 
+ 
+ 
+SUMMARY  
+AI/ML Engineer building production-ready LLM and MLOps systems with FastAPI, LangGraph, Pinecone, and 
+AWS. Experienced in deploying scalable RAG applications, multi-agent workflows, and end-to-end ML 
+pipelines. Passionate about building reliable AI systems for real-world applications. 
+ 
+TECHNICAL SKILLS  
+Core: Python, SQL, FastAPI, REST APIs, Docker, Git 
+Generative AI & NLP: LLMs, RAG, LangChain, LangGraph, Pinecone, LangSmith, Embedding Models 
+Machine Learning & MLOps: XGBoost, Scikit-learn, TensorFlow, MLflow, Great Expectations, Optuna, Redis 
+Cloud & DevOps: AWS (EC2, ECR), GitHub Actions (CI/CD) 
+ 
+PROJECTS  
+Enterprise-Grade RAG System |https://github.com/nihalsiddiqui7/production-rag| Python, FastAPI, LangChain, 
+Pinecone, AWS 
+• Built production RAG API (FastAPI + Pinecone) serving 10K+ documents with P95 latency under 400ms, 
+97% answer correctness, and 100% groundedness. 
+• Engineered ingestion pipeline with recursive text chunking; improved retrieval relevance from 70% to 95% 
+through iterative prompt and chunk-size optimization. 
+• Integrated Redis caching, prompt injection defenses, PII anonymization (Presidio), and automated evaluation           
+via LangSmith + OpenEvals (33+ runs tracked). 
+ 
+Multi-Agent Travel Planner | github.com/nihalsiddiqui7/travel-plan-agent | Python, FastAPI, LangGraph, 
+OpenAI, PostgreSQL, Docker 
+• Built multi-agent travel system (LangGraph) with Flight, Hotel, and Itinerary agents coordinated via 
+PostgreSQL checkpointing for persistent, resumable workflow state. 
+• Integrated Tavily API and custom airport resolution tool for real-time flight/hotel data, grounding itinerary 
+generation in live search results. 
+• Deployed containerized FastAPI service with Jinja2 UI, health monitoring, and LangSmith tracing for 
+production observability. 
+ 
+ 
+Customer Churn Prediction Platform | https://github.com/nihalsiddiqui7/churn-prediction | XGBoost, MLflow, 
+FastAPI, Docker, AWS EC2 
+• Developed and deployed an ML-driven churn prediction pipeline achieving 93% recall through feature 
+engineering and hyperparameter tuning (Optuna). 
+• Automated data validation (Great Expectations) and experiment tracking (MLflow), ensuring 100% 
+reproducible workflows. 
+• Containerized inference engine with Docker and deployed on AWS EC2 via GitHub Actions CI/CD. 
+• Optimized classification thresholds with stakeholders, projecting $20.7M annual revenue retention and 30.8% 
+operational cost reduction. 
+ 
+EDUCATION  
+MGM University, Institute of Information and Communication Technology 
+Bachelor of Technology in Data Science | Expected Graduation: 2027 
